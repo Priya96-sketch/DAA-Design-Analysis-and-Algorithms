@@ -51,3 +51,7 @@ int main()
 
 // For the Average and Worst Case Scenario -> O(n**2) . REASON -> Time is taken arranging or sorting the whole array.
 // For the Best Case Scenario -> O(n) . REASON -> In the Best Case Scenario, the array is already sorted and we just need to find out the element
+
+
+//SPACE COMPLEXITY
+// O(1) -> For the Worst Case Scenario

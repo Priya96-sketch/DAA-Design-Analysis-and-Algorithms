@@ -43,3 +43,11 @@ int main()
     }
     return 0;
 }
+
+
+
+//TIME COMPLEXITY
+
+
+// For the Average and Worst Case Scenario -> O(n**2) . REASON -> Time is taken arranging or sorting the whole array.
+// For the Best Case Scenario -> O(n) . REASON -> In the Best Case Scenario, the array is already sorted and we just need to find out the element
